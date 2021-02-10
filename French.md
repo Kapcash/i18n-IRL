@@ -41,4 +41,3 @@
 | a float                             |  un décimal (short for "nombre décimal)   |
 | an object                           |  un objet                                 |
 | an interface                        |  une interface                            |
-|-------------------------------------|-------------------------------------------|
